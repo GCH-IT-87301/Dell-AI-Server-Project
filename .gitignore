@@ -1,0 +1,12 @@
+# Local benchmark output
+result-*.json
+*.log
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Local secrets and environment overrides
+.env
+.env.*
